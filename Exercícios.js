@@ -90,4 +90,10 @@
 //       impar++
 //    }
 // }
-// console.log('o meu numero de pares é: ' + par + "\n" + 'o meu numero de impares é:' + impar)
+// console.log('o meu numero de pares é: ' + par + "\n" + 'o meu numero de impares é: ' + impar)
+
+let quantNum, allNum, maior, menor
+quantNum = Number(prompt('Quantos números você quer digitar?')
+for(let i = 0; i <= quantNum; i++){
+prompt('Digite um número:')
+}
