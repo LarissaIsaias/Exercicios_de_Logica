@@ -69,6 +69,7 @@ for(let i = Number(prompt('Digite um número: ')); i >= 1; i--){
 }
 console.log(fatorial)
 
+
 //Exercício 9
 let numero
 for (let i = 1; i <= 100; i++){
