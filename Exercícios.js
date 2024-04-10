@@ -92,8 +92,39 @@
 // }
 // console.log('o meu numero de pares é: ' + par + "\n" + 'o meu numero de impares é: ' + impar)
 
-let quantNum, allNum, maior, menor
-quantNum = Number(prompt('Quantos números você quer digitar?')
-for(let i = 0; i <= quantNum; i++){
-prompt('Digite um número:')
-}
+// let quantNum, allNum = '', maior = 0, menor = 0
+
+// quantNum = Number(prompt('Quantos números você quer digitar?'))
+
+// for(let i = 0; i < quantNum; i++){
+//     let num = Number(prompt('Digite um número:'))
+//     allNum += num + ' '
+//     if (i == 0) {
+//         maior = num
+//         menor = num
+//     } else {
+//         if (num > maior) {
+//             maior = num
+//         }
+//         if (num < menor) {
+//             menor = num
+//         }
+//     }
+// }
+// alert(`Maior número: ${maior}\nMenor número: ${menor}`)
+
+
+// let quantNum = Number(prompt("quantos números você quer digitar?")), num = 0, media
+// for (let i = 1; i <= quantNum; i++){
+// num += Number(prompt("digite um número: "))
+// media = num / i
+// }
+// alert(media)
+
+
+
+// let num = ''
+// for (let i = 1; i <=50; i++){
+//     num += i + '\n'
+// }
+// alert(num)
