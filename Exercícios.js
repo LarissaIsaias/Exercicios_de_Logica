@@ -142,7 +142,7 @@ if (num <= 1) {
     console.log("O número não é primo.")
 } else {
     for (let i = 2; i * i <= num; i++) {
-        if (num % i === 0) {
+        if (num % i == 0) {
             primo = false
         }
     }
